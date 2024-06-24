@@ -25,9 +25,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Adicionando itens à lista ordenada usando innerHTML (com links)
   listaOrdenada.innerHTML = `
-        <li><a href="https://desenv.com">Link 1</a></li>
-        <li><a href="https://desenv.org">Link 2</a></li>
-        <li><a href="https://desenvdois.com">Link 3</a></li>
+        <li><a href="https://desenvum.com">Link 1</a></li>
+        <li><a href="https://desenvdois.com">Link 2</a></li>
+        <li><a href="https://desenvtres.com">Link 3</a></li>
     `;
   console.log(listaOrdenada.innerHTML);
 });
